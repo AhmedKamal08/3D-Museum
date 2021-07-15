@@ -41,9 +41,9 @@ void Scene::init()
 	wall = new Mesh("models/wall.obj", basicProgram);
 	
 	
-      man = new Mesh("models/tile.obj", basicProgram);
+      man = new Mesh("models/humen.obj", basicProgram);
   //   lucy = new Mesh("models/Alucy.obj", basicProgram);
-	 bunny = new Mesh("models/tile.obj", basicProgram);
+	 bunny = new Mesh("models/bu.obj", basicProgram);
 	//dragon = new Mesh("models/dragon.obj", basicProgram);
 	Arm = new Mesh("models/tile.obj", basicProgram);
 
